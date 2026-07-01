@@ -1,7 +1,0 @@
-def add_sum(a, b):
-    sum = a + b
-    print (f"the sum is :{sum}")
-          
-a = 1
-b = 2
-add_sum(a, b)
