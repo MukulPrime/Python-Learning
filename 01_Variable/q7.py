@@ -1,11 +1,11 @@
 # Calculate Total Marks and Average for 4 subject 
 def calculate_marks():
-    math = float(input("Enter your Mathematics marks: "))
-    english = float(input("Enter your English marks: "))
-    science = float(input("Enter your Science marks:  "))
-    history = float(input("Enter your History marks: "))
+    subject1 = float(input("Enter your subject1 marks: "))
+    subject2 = float(input("Enter your subject2 marks: "))
+    subject3 = float(input("Enter your subject3 marks: "))
+    subject4 = float(input("Enter your subject4 marks: "))
 
-    total_marks = math + english + science + history 
+    total_marks = subject1 + subject2 + subject3 + subject4 
     average = total_marks / 4
 
     print(f"Total Marks is: {total_marks:.2f}")
