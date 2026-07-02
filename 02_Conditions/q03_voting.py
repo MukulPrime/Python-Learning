@@ -1,4 +1,4 @@
-# Voting Eligibity program
+# Voting Eligibility program
 def voting_age():
     age = int(input("Enter your age: "))
 
