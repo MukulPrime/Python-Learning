@@ -6,5 +6,3 @@ def time_converter():
     print(f"{seconds} seconds = {minutes:.2f} minutes")
 
 time_converter()
-
-    
