@@ -1,0 +1,2 @@
+gg = input("how old are you")
+print(gg)
