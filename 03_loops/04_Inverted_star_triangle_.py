@@ -1,4 +1,4 @@
-# program for inverted star triangle
+# program for star traingle using loops'
 def main():
     rows = int(input("Enter number of rows: "))
     for i in range(rows):
