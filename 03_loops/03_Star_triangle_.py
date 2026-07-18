@@ -6,5 +6,4 @@ def main():
             print("*", end="")
         print()
 
-main()
-    
+main()    

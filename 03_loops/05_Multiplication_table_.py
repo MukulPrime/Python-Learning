@@ -1,4 +1,4 @@
-# Program for Multiplication Table
+# Program for Multiplication Table up to 10
 def main():
     table = int(input("Enter a number: "))
     for i in range(1, 11):
