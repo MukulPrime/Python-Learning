@@ -1,4 +1,4 @@
-# program for count digit 
+# program for count digits
 def main():
     num = int(input("Enter the numbers: "))
 
